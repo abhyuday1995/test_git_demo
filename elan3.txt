@@ -1,0 +1,1 @@
+Git also helps in the pulling the data ftom the remote server.
