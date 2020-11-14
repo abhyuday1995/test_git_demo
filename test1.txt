@@ -2,3 +2,4 @@ This is my first git file.
 
 Git is one of the famous file version control solution.
 
+Git helps the software engineers in performing updates, pushing, pulling and committing data into the remote server.
